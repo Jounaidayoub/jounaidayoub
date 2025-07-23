@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif" alt="Banner" style="width:100%; aspect-ratio:16/3; object-fit:cover;" />
-</p>
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif" width="100%" height="350" style="object-fit:cover;">
 
 # Hi there 👋
 
