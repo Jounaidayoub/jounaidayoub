@@ -1,4 +1,3 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif" width="100%" height="350" style="object-fit:cover;">
 
 # Hi there 👋
 
@@ -11,6 +10,7 @@ I'm Ayoub, I am a software engineering student. I do fullstack development and I
 
 Abstraction = Bad (until u peel it and see whats inside , at leeast once )
 
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif" width="100%" height="350" style="object-fit:cover;">
 
 <!--  
 **Jounaidayoub/jounaidayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
