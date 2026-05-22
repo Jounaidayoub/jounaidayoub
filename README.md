@@ -6,7 +6,7 @@ I'm Ayoub, I am a software engineering student. I do fullstack development and I
 
 - I love exploring how things work under the hood ( remove the magic )
 - 💻 Working on Something special ;)
-- 📫 Check my porfolio: [jounai.dev](https://jounaid.dev) 
+- 📫 Check my porfolio: [jounaid.dev](https://jounaid.dev) 
 
 Abstraction = Bad (until u peel it and see whats inside , at leeast once )
 
